@@ -7,6 +7,8 @@ white='\033[37;1m' #putih
 yellow='\033[33;1m' #kuning
 orange='\033[1;38;5;208m' #Orange
 clear
+python2 pass.py
+echo
 cowsay -f ghostbusters "FACEBOOK-CRACKERS" | lolcat
 echo $green"[•]¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦[•]"
 echo $red"[•]|||||||||||||||"$purple"FACEBOOK-CRACKERS"$red"|||||||||||||||[•]"
